@@ -1,4 +1,5 @@
-Hi, I'm John 👋
+
+## Hi, I'm John 👋
 
 I am Software Engineering Honours student  
 Interested in AI, Machine Learning, and Cybersecurity  

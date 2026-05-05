@@ -1,16 +1,50 @@
-## Hi there 👋
+Hi, I'm John 👋
 
-<!--
-**kugelblitz00/kugelblitz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Software Engineering Honours student  
+Interested in AI, Machine Learning, and Cybersecurity  
+Researching Speech Emotion Recognition and Emotion Prediction  
+Full-stack web developer with practical project experience  
+Google Cybersecurity Certificate holder  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Focus
+
+Machine Learning Research  
+Speech Emotion Recognition  
+AI-driven Emotion Prediction  
+Full-stack Web Development  
+Cybersecurity Fundamentals  
+
+---
+
+## 🛠 Tech Stack
+
+React  
+Python  
+JavaScript  
+Node.js  
+Express.js  
+HTML / CSS  
+Git & GitHub  
+Machine Learning  
+
+---
+
+## 🚀 Experience
+
+Full-stack web development  
+AI and ML research projects  
+Cybersecurity learning and certification  
+Software engineering project design and development  
+
+---
+
+## 📌 Interests
+
+Artificial Intelligence  
+Machine Learning  
+Cybersecurity  
+Web Applications  
+Software Architecture  
+Research-driven Development  

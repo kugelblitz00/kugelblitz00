@@ -1,7 +1,7 @@
 
 ## Hi, I'm John 👋
 
-I am Software Engineering Honours student  
+I am a Software Engineering Honours student  
 Interested in AI, Machine Learning, and Cybersecurity  
 Researching Speech Emotion Recognition and Emotion Prediction  
 Full-stack web developer with practical project experience  
